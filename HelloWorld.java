@@ -7,7 +7,7 @@ public class HelloWorld {
 
         // Example usage of imported Scanner class
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter your name: ");
+        System.out.print("Ashok: ");
         String name = input.nextLine();
         System.out.println("Hello, " + name + "!");
         
