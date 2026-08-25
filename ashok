@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Webpage</title>
+</head>
+<body>
+  <h1>Hello, World!</h1>
+  <p>This is my first HTML page.</p>
+
+  <!-- A simple list -->
+  <ul>
+    <li>Item One</li>
+    <li>Item Two</li>
+    <li>Item Three</li>
+  </ul>
+
+  <!-- A link -->
+  <a href="https://github.com">Visit GitHub</a>
+
+  <!-- An image -->
+  <img src="https://via.placeholder.com/150" alt="Sample Image">
+</body>
+</html>
